@@ -1,6 +1,7 @@
 # TP2_2022
-<hr>
+
 Segundo trabajo práctico de la materia Técnicas y Herramientas Modernas I
+<br>
 <br>
 Integrantes:
 <ul>
@@ -10,6 +11,7 @@ Integrantes:
   <li>Mathilde Berthet</li>
   <li>Juan Pegorin</li>
 </ul>
+<hr>
 Profesores:
 <h2>R. Palma, A. Gomez </h2>
 
