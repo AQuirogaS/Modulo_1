@@ -1,6 +1,6 @@
-# TP2_2022
+# Modulo1_2022
 
-Segundo trabajo práctico de la materia Técnicas y Herramientas Modernas I
+Primer módulo de la materia Técnicas y Herramientas Modernas I
 <br>
 <br>
 Integrantes:
@@ -8,7 +8,6 @@ Integrantes:
   <li>Analía Quiroga</li>
   <li>Nicolás Mondaca</li>
   <li>Franco Carricart</li>
-  <li>Mathilde Berthet</li>
   <li>Juan Pegorin</li>
 </ul>
 <hr>
